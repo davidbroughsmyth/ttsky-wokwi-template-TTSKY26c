@@ -2,6 +2,8 @@
 
 # Tiny Tapeout Wokwi Project Template
 
+Wokwi: https://wokwi.com/projects/414442130679242753
+
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
